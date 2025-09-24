@@ -68,3 +68,5 @@ dependent variables and predicts outcomes.
     needed.\
 -   You can adjust features and target variable for custom regression
     analysis.
+
+**Sujay Roy**
